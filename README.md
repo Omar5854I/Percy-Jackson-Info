@@ -1,0 +1,2 @@
+# Percy-Jackson-Info
+The project shows three different pages; the first one (the main home page) gives a small introduction to what "The World of Percy Jackson" means, the second one is an about page that gives you some information about the saga, and the final and third page just gives you the four main characters. All pages are connected through hyperlink buttons, having three more features in each page.
